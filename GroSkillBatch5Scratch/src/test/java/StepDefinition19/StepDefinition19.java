@@ -62,7 +62,7 @@ public class StepDefinition19 extends BaseClass {
 			throw new NullPointerException("Page navigation not successfull");
 			
 		}
-		
+		System.out.println("User navigation successfull");
 		
 	}
 	
